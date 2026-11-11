@@ -1,0 +1,12 @@
+.text-component-container {
+  background-color: #f3e5e5;
+}
+.card-text {
+  font-size: 28px;
+  color: #000000;
+  margin-bottom: 0.5rem;
+  padding: 80px;
+  font-weight: 700;
+  line-height: 1.5;
+  font-family: "poppins", sans-serif;
+}
